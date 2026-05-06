@@ -10,7 +10,7 @@ public class Main {
 
         bmw.print();
 
-        bmw.year = 2021;
+        bmw.setYear = 2021;
         bmw.print();
     }
 
