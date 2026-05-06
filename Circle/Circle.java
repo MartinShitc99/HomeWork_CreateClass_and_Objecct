@@ -8,10 +8,10 @@ public class Circle {
 
     }
 
-    public double caluclateArea() {
+    public double calculateArea() {
          return Math.PI * radius * radius;
     };
-    public double caluclateCircumference() {
+    public double calculateCircumference() {
         return 2 * Math.PI * radius;
     };
 
