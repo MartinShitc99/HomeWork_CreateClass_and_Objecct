@@ -5,7 +5,7 @@ public class Main {
         Circle circle = new Circle(14.77);
 
         circle.radius = (14.99);
-        System.out.println("Площадь: " + circle.caluclateArea());
-        System.out.println("Длина: " + circle.caluclateCircumference());
+        System.out.println("Площадь: " + circle.calculateArea());
+        System.out.println("Длина: " + circle.calculateCircumference());
     }
 }
